@@ -1,16 +1,16 @@
-# my_todo_app
+# todo_app
 
-A new Flutter project.
+Bloc (Business Logic Component) is an application architecture used in Flutter app development to manage the business logic of the app. Bloc separates the app logic from the user interface and manages the data displayed on the screen. This makes the app easier to manage and develop, as well as making maintenance and testing simpler.
+![image](https://user-images.githubusercontent.com/63665371/212238687-07caa96a-eb45-4b3e-9fe6-d1e1c5f91ff8.png)
 
-## Getting Started
+## UI
+![Screenshot_1](https://user-images.githubusercontent.com/63665371/212238867-13f41523-bae6-4631-bd3b-256ca6a37467.jpg)
 
-This project is a starting point for a Flutter application.
+## Run it
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/PenCakeFuNnY/my_todo_app.git
+cd my_todo_app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter run
+```
